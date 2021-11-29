@@ -16,7 +16,7 @@ npm run serve
 # Table of contents
 
 ## 01 - Avatar
-Show the avatar on the page by editing the correct file
+Show the avatar on the page by editing the Avatar and Exercise01 file.
 
 ## 02 - Routing
 Create a link in the 'Vue way' from the second exercise to the hidden page by inspecting the already existing Vue files.
